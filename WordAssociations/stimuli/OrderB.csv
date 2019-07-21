@@ -1,0 +1,711 @@
+LIST_ID,CUE_ID,CUE
+1,1,horse
+1,2,watch (object)
+1,3,hungry
+1,4,paint (verb)
+1,5,snow
+1,6,jump
+1,7,any
+1,8,grass
+1,9,his
+1,10,medicine
+1,11,hard
+1,12,present (object)
+1,13,to
+1,14,she
+1,15,swing (object)
+1,16,soap
+1,17,eat
+1,18,tiger
+1,19,beach
+1,20,up
+1,21,now
+1,22,purse
+1,23,empty
+1,24,shopping
+1,25,shovel
+1,26,cheek
+1,27,sled
+1,28,living room
+1,29,paper
+1,30,little (description)
+1,31,touch
+1,32,and
+1,33,gas station
+1,34,stick (noun)
+2,1,dirty
+2,2,man
+2,3,brother
+2,4,break
+2,5,back (location)
+2,6,open
+2,7,peas
+2,8,elephant
+2,9,sink (noun)
+2,10,the
+2,11,bug
+2,12,knock
+2,13,my
+2,14,drawer
+2,15,lemme/let me
+2,16,pool
+2,17,downtown
+2,18,buttocks/bottom
+2,19,gotta/got to
+2,20,clock
+2,21,washing machine
+2,22,scarf
+2,23,green beans
+2,24,bird
+2,25,hit
+2,26,draw
+2,27,poor
+2,28,owie/boo boo
+2,29,loud
+2,30,ear
+2,31,pumpkin
+2,32,cute
+2,33,tear (verb)
+2,34,giraffe
+3,1,milk
+3,2,they
+3,3,rock (noun)
+3,4,stairs
+3,5,apple
+3,6,chair
+3,7,go
+3,8,yourself
+3,9,hide
+3,10,yellow
+3,11,mouse
+3,12,girl
+3,13,table
+3,14,pudding
+3,15,listen
+3,16,white
+3,17,kiss
+3,18,choo choo
+3,19,chase
+3,20,airplane
+3,21,bathroom
+3,22,knife
+3,23,an
+3,24,blow
+3,25,zoo
+3,26,long
+3,27,about
+3,28,shower
+3,29,read
+3,30,hurry
+3,31,underpants
+3,32,backyard
+3,33,uh oh
+3,34,fast
+4,1,their
+4,2,dry (action)
+4,3,stuck
+4,4,shoulder
+4,5,cake
+4,6,me
+4,7,chin
+4,8,woof woof
+4,9,light
+4,10,box
+4,11,drink (action)
+4,12,grandpa
+4,13,cut (verb)
+4,14,time
+4,15,farm
+4,16,taste
+4,17,beside
+4,18,glass
+4,19,out
+4,20,flag
+4,21,people
+4,22,this
+4,23,play
+4,24,tape (noun)
+4,25,baa baa
+4,26,crib
+4,27,snowsuit
+4,28,muffin
+4,29,play pen
+4,30,vagina
+4,31,tray
+4,32,mop
+4,33,tickle
+4,34,today
+5,1,pants
+5,2,tiny
+5,3,chicken (food)
+5,4,pull
+5,5,hear
+5,6,night
+5,7,close (verb)
+5,8,scared
+5,9,find
+5,10,stove
+5,11,balloon
+5,12,hold
+5,13,with
+5,14,pig
+5,15,behind
+5,16,plant
+5,17,so
+5,18,sock
+5,19,button
+5,20,sticky
+5,21,teddybear
+5,22,rain
+5,23,refrigerator
+5,24,finger
+5,25,jeans
+5,26,room
+5,27,person
+5,28,please
+5,29,duck
+5,30,ouch
+5,31,pillow
+5,32,basket
+5,33,bench
+5,34,dryer
+6,1,french fries
+6,2,woods
+6,3,beads
+6,4,wanna/want to
+6,5,popsicle
+6,6,leg
+6,7,show (action)
+6,8,ladder
+6,9,camping
+6,10,fork
+6,11,pretzel
+6,12,am
+6,13,talk
+6,14,tummy
+6,15,run
+6,16,fix
+6,17,shh/shush/hush
+6,18,spoon
+6,19,sick
+6,20,yucky
+6,21,block (object)
+6,22,lollipop
+6,23,window
+6,24,friend
+6,25,those
+6,26,call (on phone)
+6,27,drop (verb)
+6,28,rooster
+6,29,mailman
+6,30,new
+6,31,stop
+6,32,broken
+6,33,coke (drink)
+6,34,hand (noun)
+7,1,outside
+7,2,fine (description)
+7,3,movie
+7,4,spaghetti
+7,5,more
+7,6,kick
+7,7,how
+7,8,fish (animal)
+7,9,other
+7,10,motorcycle
+7,11,tooth
+7,12,walk
+7,13,cup
+7,14,get
+7,15,puppy
+7,16,bedroom
+7,17,doll
+7,18,raisin
+7,19,of
+7,20,jello
+7,21,on
+7,22,picnic
+7,23,hug
+7,24,boy
+7,25,brush (object)
+7,26,hen
+7,27,gum
+7,28,old
+7,29,lamp
+7,30,animal
+7,31,cereal
+7,32,yes
+7,33,car
+7,34,chocolate
+8,1,vitamins
+8,2,oven
+8,3,cry
+8,4,where
+8,5,after
+8,6,noodles
+8,7,broom
+8,8,is
+8,9,game
+8,10,strawberry
+8,11,ant
+8,12,hammer
+8,13,good
+8,14,turn around
+8,15,grandma
+8,16,swing (action)
+8,17,pizza
+8,18,garbage
+8,19,book
+8,20,fit
+8,21,dark
+8,23,yum yum
+8,24,sun
+8,25,help
+8,26,quack quack
+8,27,pickle
+8,28,sky
+8,29,we
+8,30,donut
+8,31,myself
+8,32,star
+8,33,who
+8,34,glasses
+9,1,full
+9,2,us
+9,3,last
+9,4,same
+9,5,don't
+9,6,next to
+9,7,all
+9,8,scissors
+9,9,ball
+9,10,some
+9,11,that
+9,12,rip (verb)
+9,13,carrots
+9,14,another
+9,15,firetruck
+9,16,police
+9,17,monkey
+9,18,sprinkler
+9,19,work (action)
+9,20,happy
+9,21,bite
+9,22,pour
+9,23,bear (noun)
+9,24,TV
+9,25,tongue
+9,26,a lot
+9,27,soup
+9,28,penis
+9,29,yard
+9,30,catch
+9,31,butter
+9,32,what
+9,33,he
+10,1,later
+10,2,hurt
+10,3,finish
+10,4,cheese
+10,5,donkey
+10,6,high
+10,7,penny
+10,8,walker
+10,9,breakfast
+10,10,bed
+10,11,I
+10,12,wind (weather)
+10,13,pretend
+10,14,sandbox
+10,15,towel
+10,16,potato
+10,17,every
+10,18,tomorrow
+10,19,corn
+10,20,be
+10,21,cook
+10,22,nap
+10,23,orange (food)
+10,24,hair
+10,25,over
+10,26,babysitter
+10,27,kitchen
+10,28,slide (object)
+10,29,watch (action)
+10,30,on top of
+10,31,nose
+10,32,are
+10,33,church
+10,34,take
+11,1,beans
+11,2,aunt
+11,3,party
+11,4,sweater
+11,5,radio
+11,6,first
+11,7,toast (noun)
+11,8,cookie
+11,9,clap
+11,10,big
+11,11,jar
+11,12,fish (food)
+11,13,butterfly
+11,14,dinner
+11,15,fall (verb)
+11,16,juice
+11,17,bus
+11,18,mad
+11,19,frog
+11,20,squirrel
+11,21,rocking chair
+11,22,yesterday
+11,23,comb
+11,24,swim
+11,25,our
+11,26,popcorn
+11,27,cat
+11,28,pretty
+11,29,dish
+11,30,spill
+11,31,pen
+11,32,clean (action)
+11,33,pattycake
+11,34,dress (object)
+11,35,potty
+12,1,moon
+12,2,turkey (animal)
+12,3,look
+12,4,put
+12,5,before
+12,6,bump (verb)
+12,7,potato chip
+12,8,say
+12,9,sauce
+12,10,nurse (noun)
+12,11,high chair
+12,12,meat
+12,13,try/try to
+12,14,her
+12,15,hate
+12,16,cow
+12,17,fireman
+12,18,meow
+12,19,diaper
+12,20,cheerios
+12,21,pajamas
+12,22,knee
+12,23,blanket
+12,24,gentle
+12,25,go potty
+12,26,belt (noun)
+12,27,tights
+12,28,bath
+12,29,at
+12,30,grapes
+12,31,toy
+12,32,none
+12,33,moose
+12,34,arm
+13,1,crayon
+13,2,yogurt
+13,3,could
+13,4,dance
+13,5,nuts (food)
+13,6,much
+13,7,climb
+13,8,tricycle
+13,9,mommy
+13,10,deer
+13,11,porch
+13,12,owl
+13,13,kitty
+13,14,sneaker
+13,15,hafta/have to
+13,16,each
+13,17,moo
+13,18,doctor
+13,19,helicopter
+13,20,because
+13,21,sleep
+13,22,bad
+13,23,slow
+13,24,napkin
+13,25,splash
+13,26,night night
+13,27,red
+13,28,stroller
+13,29,face
+13,30,was
+13,31,lips
+13,32,train (noun)
+13,33,lion
+13,34,child
+14,1,garden
+14,2,for
+14,3,when
+14,4,zipper
+14,5,inside/in
+14,6,buy
+14,7,peanut butter
+14,8,store (place)
+14,9,glue
+14,10,boat
+14,11,away
+14,12,stand (verb)
+14,13,naughty
+14,14,penguin
+14,15,wait
+14,16,you
+14,17,blue
+14,18,stay
+14,19,smile
+14,20,sleepy
+14,21,push
+14,22,sandwich
+14,23,not
+14,24,vroom
+14,25,them
+14,26,orange (color)
+14,27,playground
+14,28,water (outside)
+14,29,lunch
+14,30,a
+14,31,uncle
+14,32,cracker
+14,33,tissue/kleenex
+14,34,wolf
+15,1,will (verb)
+15,2,hello
+15,3,your
+15,4,wake (verb)
+15,5,drink (beverage)
+15,6,have
+15,7,street
+15,8,him
+15,9,bathtub
+15,10,skate
+15,11,pick
+15,12,love
+15,13,garage
+15,14,trash (noun)
+15,15,pet (noun)
+15,16,why
+15,17,necklace
+15,18,school
+15,19,dump (verb)
+15,20,need/need to
+15,21,sister
+15,22,write
+15,23,thirsty
+15,24,snowman
+15,25,jelly
+15,26,throw
+15,27,ankle
+15,28,mouth
+15,29,if
+15,30,into
+15,31,were
+15,32,hamburger
+15,33,give
+15,34,bucket
+16,1,egg
+16,2,quiet
+16,3,bicycle
+16,4,do
+16,5,park (place)
+16,6,banana
+16,7,puzzle
+16,8,gloves
+16,9,snack
+16,10,home
+16,11,coat
+16,12,heavy
+16,13,tired
+16,14,toothbrush
+16,15,food
+16,16,stone
+16,17,closet
+16,18,which
+16,19,soda/pop
+16,20,pencil
+16,21,door
+16,22,tractor
+16,23,telephone
+16,24,can (object)
+16,25,shirt
+16,26,off
+16,27,tuna
+16,28,couch
+16,29,sing
+16,30,wish
+16,31,bye
+17,1,baby
+17,2,country
+17,3,chalk
+17,4,jacket
+17,5,green
+17,6,head
+17,7,cloud
+17,8,wet
+17,9,here
+17,10,slipper
+17,11,clean (description)
+17,12,hi
+17,13,turtle
+17,14,but
+17,15,zebra
+17,16,peekaboo
+17,17,shoe
+17,18,teacher
+17,19,awake
+17,20,play dough
+17,21,flower
+17,22,see
+17,23,these
+17,24,mine
+17,25,pony
+17,26,can (helping verb)
+17,27,nail (household item)
+17,28,above
+17,29,hers
+17,30,boots
+17,31,dry (description)
+17,32,sofa
+17,33,lawn mower
+17,34,feed (verb)
+17,35,bee
+18,1,melon
+18,2,cold
+18,3,lick
+18,4,shorts
+18,5,bread
+18,6,shake
+18,7,by
+18,8,cowboy
+18,9,wipe (verb)
+18,10,did/did ya
+18,11,build
+18,12,mittens
+18,13,goose
+18,14,down
+18,15,make
+18,16,hose
+18,17,tonight
+18,18,toe
+18,19,money
+18,20,carry
+18,21,like
+18,22,day
+18,23,morning
+18,24,cover
+18,25,keys
+18,26,pancake
+18,27,think
+18,28,no
+18,29,there
+18,30,sit
+18,31,windy
+18,32,vanilla
+18,33,then
+19,1,does
+19,2,noisy
+19,3,bat (toy)
+19,4,brown
+19,5,dog
+19,6,would
+19,7,black
+19,8,it
+19,9,vacuum
+19,10,clown
+19,11,hot
+19,12,sidewalk
+19,13,slide (verb)
+19,14,soft
+19,15,circus
+19,16,tear (verb)
+19,17,alligator
+19,18,better
+19,19,bubbles
+19,20,salt
+19,21,water (beverage)
+19,22,candy
+19,23,share
+19,24,under
+19,25,ride
+19,26,applesauce
+19,27,tree
+19,28,cockadoodledoo
+19,29,careful
+19,30,bring
+19,31,work (place)
+19,32,sheep
+19,33,plate
+19,34,daddy
+20,1,too
+20,2,chicken (animal)
+20,3,camera
+20,4,thank you
+20,5,grrr
+20,6,sweep
+20,7,bib
+20,8,lady
+20,9,ice
+20,10,asleep
+20,11,wash (verb)
+20,12,sad
+20,13,bowl (noun)
+20,14,around
+20,15,bunny
+20,16,coffee
+20,17,basement
+20,18,belly button
+20,19,eye
+20,20,story (thing)
+20,21,lamb
+20,22,hat
+20,23,ice cream
+20,24,nice
+20,25,drive (verb)
+20,26,picture
+20,27,house
+20,28,gonna/going to
+20,29,bottle
+20,30,roof
+20,31,truck
+20,32,all gone
+20,33,foot
+21,1,buy
+21,2,medicine
+21,3,new
+21,4,radio
+21,5,drink (action)
+21,6,church
+21,7,hate
+21,8,penny
+21,9,find
+21,10,movie
+21,11,skate
+21,12,buttocks/bottom
+21,13,naughty
+21,14,camera
+21,15,coffee
+21,16,hide
+21,17,same
+21,18,hard
+21,19,salt
+21,20,fish (food)
+21,21,belly button
+21,22,show (action)
+21,23,high
+21,24,poor
+21,25,no
+21,26,thank you
+21,27,work (place)
+21,28,roof
+21,29,careful
+21,30,blow
+21,31,glasses
+21,32,work (action)
+21,33,think
+21,34,party
+21,35,will
