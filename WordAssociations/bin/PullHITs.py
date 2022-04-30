@@ -19,6 +19,10 @@ def PullHITs():
                 #if result.returncode == 0:
                 #    j.write(result.stdout)
 
+            hit_definition_json = os.path.join("data","HITS","definition","{hit:s}.json".format(hit=hit))
+            with open(hit_definition_json,'wb') as j:
+                result = subprocess.run(["aws","mturk","get-hit","--hit-id",hit],stdout=j)
+
 
     print("* ===")
     print("* All assignments retrieved and written to 'data/HITS'.")
